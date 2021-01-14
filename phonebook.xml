@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneBook>
+	<Title>Mediplus</Title>
+	<Menu Name="IT">
+		<Unit Name="Coenraad Vlietstra" default_photo="" Phone3="" Phone2="0615367089" Phone1="0878222538"/>
+		<Unit Name="Eugene de Kock" default_photo="" Phone3="" Phone2="0840543055" Phone1="0878221552"/>
+		<Unit Name="Clive Smart" default_photo="" Phone3="" Phone2="0828940432" Phone1="0878217907"/>
+	</Menu>
+	<Menu Name="Operations">
+		<Unit Name="Suzanne van Rensburg" default_photo="" Phone3="" Phone2="0796495990" Phone1="0878217531"/>
+		<Unit Name="Elize Karsten" default_photo="" Phone3="0844376566" Phone2="0661488333" Phone1=""/>
+	</Menu>
+</YealinkIPPhoneBook>
